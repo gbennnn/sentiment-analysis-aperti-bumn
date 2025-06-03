@@ -57,7 +57,7 @@ Hal Penting yang Harus Diperhatikan:
 - Harus ada landasan teori dan alasan ilmiah yang kuat untuk: Pemilihan metode atau model, Proses labeling, Interpretasi hasil evaluasi
 
 bisa pake LLM:
-- gemini dan GPT, dibandingkan gitu
+- gemini dan GPT, dibandingkan gitu (naïve bayes)
 
 Pelabelan:
 - bisa pake positif, negative, netral
@@ -65,3 +65,5 @@ Pelabelan:
 - atau yang lainnya
 
 ada juga zero-shot learning
+
+tahapannya: missal pake crisp-dm, ml workfow
