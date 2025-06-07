@@ -1,0 +1,72 @@
+rating,snippet,tokens,label_sentimen
+5.0,dari luar tampak seperti rumah hantu tapi lihatlah ketika anda masuk sini semuanya begitu sempurna tempatnya bagus ruangannya bagus full ac dimana mana perpusnya juga bagus dosennya juga ramah ramah komunikatif juga pokoknya anda tidak akan menyesal kalau kuliah disini pembelajaran juga interaktif dosennya muda muda semua under 35th,"['rumah', 'hantu', 'lihat', 'masuk', 'sempurna', 'tempat', 'bagus', 'ruang', 'bagus', 'full', 'ac', 'mana', 'pus', 'bagus', 'dosen', 'ramah', 'ramah', 'komunikatif', 'pokok', 'sesal', 'kuliah', 'ajar', 'interaktif', 'dosen', 'muda', 'muda', 'under', '35th']",positif
+5.0,unik kampus heritage pertama yang pernah saya datangi area bekas pabrik semen gresik yang dipindah ke tuban para mahasiswa staf ramah perpustakaan fasilitas lainnya mantap adem kalau sudah masuk ke gedungnya harus mampir kesini instagramable september 2019,"['unik', 'kampus', 'heritage', 'datang', 'area', 'bekas', 'pabrik', 'semen', 'gresik', 'pindah', 'tuban', 'mahasiswa', 'staf', 'ramah', 'pustaka', 'fasilitas', 'mantap', 'adem', 'masuk', 'gedung', 'mampir', 'kesini', 'instagramable', 'september', '2019']",positif
+1.0,kekurangan yang ada 1 parkiran tidak ada parkirannya tidak ada atapnya jadi bikin ban motor sering kempes kalau hujan helmnya jadi basah tidak mengerti lagi sama parkirannya 2 tangga akses menuju gedung 4 tangganya sangat curam dan tidak aman apalagi waktu setelah hujan licin tolong diperbaikin 3 ac ac dibeberapa kelas terutama di gedung 3 banyak yang tidak berfungsi dengan baik ac nya sangat berisik dan menganggu kelas tidak bisa diatur suhu nya kadang sangat dingin tidak bisa diturunkan suhu nya jadi menganggu kelas jika tidak pakai ac sangat panas apalagi ini gresik akses menuju gedung 345 kampus a tidak ada parkiran jadi harus parkir di depan dekat kantin maka membutuhkan energi ekstra untuk menuju kelas sampai dikelas bahkan ac nya bermasalah 4 kantin dan mushollah untuk kampus a lagi untuk kantin nya bagi petugas kebersihan kampus harap dibersihkan karena menurut saya cukup kotor bagi tempat makan dan istirahat kantinya di siang hari sangat panas mungkin karena atapnya yang besi kemudian untuk musholla mungkin bisa direnovasi agar lebih bisa disebut mushollah karena ini tempat ibadah lalu pada meja kantin terdapat beberapa stopkontak yang tidak berfungsi dan besinya sudah berkarat dan mushala tempat wudhu perempuan kalau sudah maghrib tidak ada lampunya sehingga gelap dan terpaksa menggunakan flash hp sangat tolong ukt tidak murah dan saya berharap mendapatkan fasilitas yang layak seperti kampus yang lain edit ulasan tidak ada sama sekali perubahan cuman dikasih lampu doang dimushola plis lah parkiran tidak ada parkirannya,"['kurang', '1', 'parkir', 'parkir', 'atap', 'bikin', 'ban', 'motor', 'kempes', 'hujan', 'helm', 'basah', 'erti', 'parkir', '2', 'tangga', 'akses', 'gedung', '4', 'tangga', 'curam', 'aman', 'hujan', 'licin', 'tolong', 'diperbaikin', '3', 'ac', 'ac', 'beberapa', 'kelas', 'gedung', '3', 'fungsi', 'ac', 'nya', 'berisik', 'menganggu', 'kelas', 'atur', 'suhu', 'nya', 'kadang', 'dingin', 'turun', 'suhu', 'nya', 'menganggu', 'kelas', 'pakai', 'ac', 'panas', 'gresik', 'akses', 'gedung', '345', 'kampus', 'a', 'parkir', 'parkir', 'kantin', 'butuh', 'energi', 'ekstra', 'kelas', 'kelas', 'ac', 'nya', 'masalah', '4', 'kantin', 'mushollah', 'kampus', 'a', 'kantin', 'nya', 'tugas', 'bersih', 'kampus', 'harap', 'bersih', 'kotor', 'makan', 'istirahat', 'kanti', 'siang', 'panas', 'atap', 'besi', 'musholla', 'renovasi', 'mushollah', 'ibadah', 'meja', 'kantin', 'stopkontak', 'fungsi', 'besi', 'karat', 'mushala', 'wudhu', 'perempuan', 'maghrib', 'lampu', 'gelap', 'paksa', 'flash', 'hp', 'tolong', 'ukt', 'murah', 'harap', 'fasilitas', 'layak', 'kampus', 'edit', 'ulas', 'ubah', 'cuman', 'kasih', 'lampu', 'doang', 'dimushola', 'plis', 'parkir', 'parkir']",negatif
+3.0,universitasnya sangat bagus tapi lebih diperhatikan untuk yang dikampus 2 jalannya agak licin dan berpasir jadi ditikungan mudah jatuh terima kasih untuk dosen dan mahasiswa yang sangat membantu dan sangat baik sudah mau membantu seluruh proses belajar sampai selesai,"['universitas', 'bagus', 'perhati', 'kampus', '2', 'jalan', 'licin', 'pasir', 'tikung', 'mudah', 'jatuh', 'terima', 'kasih', 'dosen', 'mahasiswa', 'bantu', 'bantu', 'proses', 'ajar', 'selesai']",positif
+1.0,hatihati dengan dosen gadungan yang bernama oktavian zulfiky yang mengaku bekerja di uisi dan terbukti telah memalsukan gelar s2 nya,"['hatihati', 'dosen', 'gadungan', 'nama', 'oktavian', 'zulfiky', 'aku', 'uis', 'bukti', 'palsu', 'gelar', 's2', 'nya']",negatif
+3.0,sementara 3 bintang dulu ya min min calon mahasiswamahasiswi yang buka dari keluarga karyawan dan bukan lulusan dari sekolah mitra apakah bisa untuk daftarmasuk di uisi,"['3', 'bintang', 'ya', 'min', 'min', 'calon', 'mahasiswamahasiswi', 'buka', 'keluarga', 'karyawan', 'lulus', 'sekolah', 'mitra', 'daftarmasuk', 'uis']",negatif
+2.0,jalan masuk untuk motor ke kampus b paving nya banyak yang rusak tidak rata min lebih baik di jadikan 1 saja jalan masuk untuk motor dan mobil,"['jalan', 'masuk', 'motor', 'kampus', 'b', 'paving', 'nya', 'rusak', 'min', 'jadi', '1', 'jalan', 'masuk', 'motor', 'mobil']",negatif
+1.0,dapat orderan go ride atas nama amelia si pada hari selasa 29 november 2022 pukul 1456 katanya sudah menunggu di pos satuan pengamanan ternyata masih jam kelas dan saya sudah menunggu hampir 1 jam di pos satuan pengamanan orderan bahkan di cancel sudah di bantu beberapa mahasiswa dan mahasiswi yang lain untuk di carikan di wa teman prodinya tapi tidak ada mungkin kebetulan bukan rekan prodinya,"['order', 'go', 'ride', 'nama', 'amelia', 'si', 'selasa', '29', 'november', '2022', '1456', 'tunggu', 'pos', 'satu', 'aman', 'jam', 'kelas', 'tunggu', '1', 'jam', 'pos', 'satu', 'aman', 'order', 'cancel', 'bantu', 'mahasiswa', 'mahasiswi', 'cari', 'wa', 'teman', 'prodinya', 'rekan', 'prodinya']",negatif
+1.0,1 syarat pendaftaran kurang terperinci dan sistematis 2 kurikulum perlu diinformasikan dengan suatu harapan calon mahasiswa yang ingin mendaftar tahu apa yang akan diberikan pihak kampus terhadap mahasiswa mahasiswa mau didesaian menjadi lulusan seperti apa 3 karena ujungnya kuliah setelah lulus itu kerja maka jaminan apa yang bisa diberikan kampus terhadap kelulusannya kalau hanya sekedar meluluskan tanpa memberikan solusipeluang kerja tidak ada bedanya dengan kebanyakan kampus yang hanya meluluskan pada akhirnya masih dipusingkan dengan mencari kerja 4 keunggulankeunggulan apa yang bisa diberikan kampus terhadap mahasiswanya 5 maaf bisa belajar dari pt lain bagaimana cara menginformasikan lebih lugas sebenarnya masih banyak yang ingin saya sampaikan tapi untuk sementara cukup 5 hal itu yang saya anggap masih perlu ditingkatkan demikian yang bisa saya informasikan mudahmudah dapat dijadikan masukan bravo edi purwanta moxer,"['1', 'syarat', 'daftar', 'perinci', 'sistematis', '2', 'kurikulum', 'informasi', 'harap', 'calon', 'mahasiswa', 'daftar', 'kampus', 'mahasiswa', 'mahasiswa', 'didesaian', 'lulus', '3', 'ujung', 'kuliah', 'lulus', 'kerja', 'jamin', 'kampus', 'kelulus', 'dar', 'lulus', 'solusipeluang', 'kerja', 'beda', 'banyak', 'kampus', 'lulus', 'pusing', 'cari', 'kerja', '4', 'keunggulankeunggulan', 'kampus', 'mahasiswa', '5', 'maaf', 'ajar', 'pt', 'informasi', 'lugas', '5', 'anggap', 'tingkat', 'informasi', 'mudahmudah', 'jadi', 'masuk', 'bravo', 'edi', 'purwanta', 'moxer']",negatif
+4.0,lokasinya cukup sejuk asri dan bersih banyak pohon2 yang rindang tempat parkir juga luas ada musholla warung2 makan pokoknya asik untuk belajar,"['lokasi', 'sejuk', 'asri', 'bersih', 'pohon2', 'rindang', 'parkir', 'luas', 'musholla', 'warung2', 'makan', 'pokok', 'asik', 'ajar']",positif
+5.0,bukan hanya fasilitasnya saja yang menjadikan mahasiswa menjadi manusia seutuhnya tapi pembelajaran yang memanusiakan manusialah yang membentuk manusia seutuhnya karena manusia adalah subjek perubahan sehingga menjadi bagian utama dalam pelaku pembelajaran hal itu telah dibuktikan selanjutnya pilihan masingmaisng untuk melanjutkan menjadi generasi emas di lembah penuh harta karun menginternasionlakan indonesia,"['fasilitas', 'jadi', 'mahasiswa', 'manusia', 'utuh', 'ajar', 'manusia', 'manusia', 'bentuk', 'manusia', 'utuh', 'manusia', 'subjek', 'ubah', 'utama', 'laku', 'ajar', 'bukti', 'pilih', 'masingmaisng', 'lanjut', 'generasi', 'emas', 'lembah', 'penuh', 'harta', 'karun', 'menginternasionlakan', 'indonesia']",positif
+4.0,perguruan tinggi swasta di gresik dan baru beberapa tahun namun sudah go internasional dan penyebaran mahasiswa baru dari semua propinsi se indonesia,"['guru', 'swasta', 'gresik', 'go', 'internasional', 'sebar', 'mahasiswa', 'propinsi', 'indonesia']",positif
+5.0,lokasi yang unik satusatunya di indonesia kampus menyulap bangunan mantan pabrik semen menjadi wadah pendidikan tinggi yang bertaraf internasionl,"['lokasi', 'unik', 'satusatunya', 'indonesia', 'kampus', 'sulap', 'bangun', 'mantan', 'pabrik', 'semen', 'wadah', 'didik', 'taraf', 'internasionl']",positif
+5.0,tempatnya lumayan keren lokasi ada di dalam pabrik semen parkiran juga luas banyak pohon besar dan tinggi,"['tempat', 'lumayan', 'keren', 'lokasi', 'pabrik', 'semen', 'parkir', 'luas', 'pohon']",positif
+5.0,sangat baik,[],positif
+5.0,kampus uisi adalah campus kebanggaan anak kami dan genersi muda yang berusaha mencari ilmu yang bermanfaat amin,"['kampus', 'uis', 'campus', 'bangga', 'anak', 'genersi', 'muda', 'usaha', 'cari', 'ilmu', 'manfaat', 'amin']",positif
+5.0,kampusnya ada 2 lokasi yang di jl veteran sini kampus a dan kampus b tempat perpus instagramable,"['kampus', '2', 'lokasi', 'jl', 'veteran', 'kampus', 'a', 'kampus', 'b', 'pus', 'instagramable']",positif
+5.0,tangyu orderan laptop thinkpadnya ditunggu orderannya lagi,"['tangyu', 'order', 'laptop', 'thinkpadnya', 'tunggu', 'order']",positif
+4.0,ada jurusan apa saja ya,"['jurus', 'ya']",netral
+5.0,termasuk kampus terbaik di gresik dengan nuansa industrial nya dapat banget,"['kampus', 'baik', 'gresik', 'nuansa', 'industrial', 'nya', 'banget']",positif
+5.0,beda dengan kampus lain keren banyak pengembangan softskill atau hardskill disini,"['beda', 'kampus', 'keren', 'kembang', 'softskill', 'hardskill']",positif
+5.0,kampus luas megah,"['kampus', 'luas', 'megah']",positif
+5.0,kampus baru di gresik swasta tapi bagus pengajarannya berkualitas seperti ptn bahkan,"['kampus', 'gresik', 'swasta', 'bagus', 'ajar', 'kualitas', 'ptn']",positif
+5.0,kampus yang berbasis korporasi salah satu universitas terbaik yang ada di gresik,"['kampus', 'bas', 'korporasi', 'salah', 'universitas', 'baik', 'gresik']",positif
+5.0,fasilitas lengkap,"['fasilitas', 'lengkap']",positif
+5.0,kampus serasa pubg kampus pubg check,"['kampus', 'serasa', 'pubg', 'kampus', 'pubg', 'check']",netral
+5.0,bismillah dan alhamdulillah bisa kuliah disini di proudtobestimsi,"['bismillah', 'alhamdulillah', 'kuliah', 'proudtobestimsi']",positif
+5.0,bangga jadi bagian kampus ini keep crafting the excellent,"['bangga', 'kampus', 'keep', 'crafting', 'the', 'excellent']",positif
+5.0,kampus baru namun melejit prestasinya,"['kampus', 'lejit', 'prestasi']",positif
+4.0,beruntung yang bisa kuliah di sini masa depan cerah menanti,"['untung', 'kuliah', 'cerah']",positif
+5.0,uisi perfect,"['uis', 'perfect']",positif
+5.0,universitas terbaik di kota gresik,"['universitas', 'baik', 'kota', 'gresik']",positif
+5.0,kampus the best pilihan dan internasional,"['kampus', 'the', 'best', 'pilih', 'internasional']",positif
+5.0,tempatnya adem asri sejuk,"['tempat', 'adem', 'asri', 'sejuk']",positif
+4.0,arsitektur bangunan kampus bagus banget,"['arsitektur', 'bangun', 'kampus', 'bagus', 'banget']",positif
+5.0,kampus heritages pertama di indonesia,"['kampus', 'heritages', 'indonesia']",positif
+5.0,kampus internasional terbaik di indonesia,"['kampus', 'internasional', 'baik', 'indonesia']",positif
+5.0,sangat menarik,['tarik'],positif
+5.0,fasilitas terbaikk,"['fasilitas', 'terbaikk']",positif
+4.0,cari ilmu coz bisa kerjaa,"['cari', 'ilmu', 'coz', 'kerjaa']",positif
+5.0,semakin kokoh tidak tertandingi,"['kokoh', 'tanding']",positif
+5.0,kampus dengan sistem manajemen modern,"['kampus', 'sistem', 'manajemen', 'modern']",positif
+5.0,universitas nya bagus,"['universitas', 'nya', 'bagus']",positif
+5.0,universitas yang sangat bagus,"['universitas', 'bagus']",positif
+5.0,sangat bagus,['bagus'],positif
+4.0,sekarang memiliki kampus,"['milik', 'kampus']",positif
+5.0,akreditasi lumayan bagus,"['akreditasi', 'lumayan', 'bagus']",positif
+5.0,kampus uisi gresik,"['kampus', 'uis', 'gresik']",netral
+5.0,kampusnya orang gresik,"['kampus', 'orang', 'gresik']",netral
+5.0,bagus banget,"['bagus', 'banget']",positif
+4.0,kampus favorit di gresik,"['kampus', 'favorit', 'gresik']",positif
+5.0,kampus berbasis korporasi,"['kampus', 'bas', 'korporasi']",netral
+4.0,universitas internasional semen indonesia,"['universitas', 'internasional', 'semen', 'indonesia']",netral
+4.0,pengin kuliah disini,"['pengin', 'kuliah']",positif
+5.0,mudahan masuk,"['mudah', 'masuk']",positif
+5.0,mantap,['mantap'],positif
+5.0,best kampus,"['best', 'kampus']",positif
+5.0,sangat puas,['puas'],positif
+5.0,internasional,['internasional'],netral
+5.0,uniqe campus especially its campus b which transformed from mantan cement coal mill gain many experiences directly from experts from pt semen indonesia through both lectures and work learning,"['uniqe', 'campus', 'especially', 'its', 'campus', 'b', 'which', 'transformed', 'from', 'mantan', 'cement', 'coal', 'mill', 'gain', 'many', 'experiences', 'directly', 'from', 'experts', 'from', 'pt', 'semen', 'indonesia', 'through', 'both', 'lectures', 'and', 'work', 'learning']",positif
+5.0,i truly impressed with the beautiful and comfortable scene of this campus,"['i', 'truly', 'impressed', 'with', 'the', 'beautiful', 'and', 'comfortable', 'scene', 'of', 'this', 'campus']",positif
+5.0,,[],positif
+5.0,masih ini new university but a lot facilities,"['new', 'university', 'but', 'a', 'lot', 'facilities']",positif
+5.0,homy reputable private university,"['homy', 'reputable', 'private', 'university']",positif
+5.0,niceeee,['niceeee'],positif
+4.0,stimsi,['stimsi'],netral
+5.0,good campus,"['good', 'campus']",positif
+5.0,tekkim dabest,"['tekkim', 'dabest']",positif
+5.0,with good people,"['with', 'good', 'people']",positif
+5.0,good,['good'],positif
+5.0,crafting the excellent,"['crafting', 'the', 'excellent']",positif
